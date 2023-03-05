@@ -24,6 +24,7 @@ function App() {
 
   return (
     <div className="container">
+      <h1 className="title">QR maker</h1>
 
       <QRCode
         value={link}
