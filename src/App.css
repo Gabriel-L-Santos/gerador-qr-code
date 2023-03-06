@@ -50,9 +50,11 @@
 
 .download-btn {
     background: rgb(255, 238, 0);
+    border: 1px solid #292828af;
     padding: 0.5rem;
     border-radius: 8px;
     text-decoration: none;
+    text-shadow: 1px 2px 2px rgb(0 0 0);
     transition: transform 450ms;
     color: rgb(206, 47, 179);
 }
