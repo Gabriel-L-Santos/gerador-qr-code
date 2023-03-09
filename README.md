@@ -18,7 +18,7 @@ Este é QR Maker, projeto de gerador de QR Code usando ReactJS.
 
 ## Meu processo de Desenvolvimento
 
-Para este projeto, foi importado a biblioteca `react-qr-code` para o funcionamento do que foi proposto para o site, além da biblioteca `react-icons` para o uso de ícones do Linkedin e GitHub para o redirecionamento para o meu perfil dos respectivos sites. Para começar, basta colar qualquer link no input e clicar no botão "Baixar QR Code" que será feito o download do arquivo png com a conversão do link para o QR code.
+Para este projeto, foi importado a biblioteca `react-qr-code` para o funcionamento do que foi proposto para o site, além da biblioteca `react-icons` para o uso de ícones para o redirecionamento para o meu perfil do Linkedin e GitHub. Para começar, basta colar qualquer link no input e clicar no botão "Baixar QR Code" que será feito o download da imagem png do QR code.
 
 ## Autor do Projeto
 
